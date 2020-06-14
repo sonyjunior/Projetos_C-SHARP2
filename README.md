@@ -7,6 +7,6 @@ Projetos em andamento
 - git clone
 - git config --global user.email "seu e-mail"
 
-As vzs é mais fácil clonar a branch novamente,
-para resolver erros
+>As vzs é mais fácil clonar a branch novamente,
+>para resolver erros
 
