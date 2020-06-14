@@ -1,0 +1,26 @@
+C:\Users\junior\source\repos\11-05-20\bin\Debug\netcoreapp3.1\11-05-20.exe
+C:\Users\junior\source\repos\11-05-20\bin\Debug\netcoreapp3.1\11-05-20.deps.json
+C:\Users\junior\source\repos\11-05-20\bin\Debug\netcoreapp3.1\11-05-20.runtimeconfig.json
+C:\Users\junior\source\repos\11-05-20\bin\Debug\netcoreapp3.1\11-05-20.runtimeconfig.dev.json
+C:\Users\junior\source\repos\11-05-20\bin\Debug\netcoreapp3.1\11-05-20.dll
+C:\Users\junior\source\repos\11-05-20\bin\Debug\netcoreapp3.1\11-05-20.pdb
+C:\Users\junior\source\repos\11-05-20\obj\Debug\netcoreapp3.1\11-05-20.csprojAssemblyReference.cache
+C:\Users\junior\source\repos\11-05-20\obj\Debug\netcoreapp3.1\11-05-20.csproj.CoreCompileInputs.cache
+C:\Users\junior\source\repos\11-05-20\obj\Debug\netcoreapp3.1\11-05-20.AssemblyInfoInputs.cache
+C:\Users\junior\source\repos\11-05-20\obj\Debug\netcoreapp3.1\11-05-20.AssemblyInfo.cs
+C:\Users\junior\source\repos\11-05-20\obj\Debug\netcoreapp3.1\11-05-20.dll
+C:\Users\junior\source\repos\11-05-20\obj\Debug\netcoreapp3.1\11-05-20.pdb
+C:\Users\junior\source\repos\11-05-20\obj\Debug\netcoreapp3.1\11-05-20.genruntimeconfig.cache
+C:\Users\junior\Documents\ETEC-2020\pendrive.16gb\Técnicas de Programação-Junio\11-05-20\bin\Debug\netcoreapp3.1\11-05-20.exe
+C:\Users\junior\Documents\ETEC-2020\pendrive.16gb\Técnicas de Programação-Junio\11-05-20\bin\Debug\netcoreapp3.1\11-05-20.deps.json
+C:\Users\junior\Documents\ETEC-2020\pendrive.16gb\Técnicas de Programação-Junio\11-05-20\bin\Debug\netcoreapp3.1\11-05-20.runtimeconfig.json
+C:\Users\junior\Documents\ETEC-2020\pendrive.16gb\Técnicas de Programação-Junio\11-05-20\bin\Debug\netcoreapp3.1\11-05-20.runtimeconfig.dev.json
+C:\Users\junior\Documents\ETEC-2020\pendrive.16gb\Técnicas de Programação-Junio\11-05-20\bin\Debug\netcoreapp3.1\11-05-20.dll
+C:\Users\junior\Documents\ETEC-2020\pendrive.16gb\Técnicas de Programação-Junio\11-05-20\bin\Debug\netcoreapp3.1\11-05-20.pdb
+C:\Users\junior\Documents\ETEC-2020\pendrive.16gb\Técnicas de Programação-Junio\11-05-20\obj\Debug\netcoreapp3.1\11-05-20.csprojAssemblyReference.cache
+C:\Users\junior\Documents\ETEC-2020\pendrive.16gb\Técnicas de Programação-Junio\11-05-20\obj\Debug\netcoreapp3.1\11-05-20.csproj.CoreCompileInputs.cache
+C:\Users\junior\Documents\ETEC-2020\pendrive.16gb\Técnicas de Programação-Junio\11-05-20\obj\Debug\netcoreapp3.1\11-05-20.AssemblyInfoInputs.cache
+C:\Users\junior\Documents\ETEC-2020\pendrive.16gb\Técnicas de Programação-Junio\11-05-20\obj\Debug\netcoreapp3.1\11-05-20.AssemblyInfo.cs
+C:\Users\junior\Documents\ETEC-2020\pendrive.16gb\Técnicas de Programação-Junio\11-05-20\obj\Debug\netcoreapp3.1\11-05-20.dll
+C:\Users\junior\Documents\ETEC-2020\pendrive.16gb\Técnicas de Programação-Junio\11-05-20\obj\Debug\netcoreapp3.1\11-05-20.pdb
+C:\Users\junior\Documents\ETEC-2020\pendrive.16gb\Técnicas de Programação-Junio\11-05-20\obj\Debug\netcoreapp3.1\11-05-20.genruntimeconfig.cache

@@ -1,0 +1,4 @@
+C:\Users\junior\Documents\ETEC-2020\pendrive.16gb\Técnicas de Programação-Junio\Projetos_C-SHARP\Projetos_C-SHARP\Adivinha Numero\obj\Debug\netcoreapp3.1\AdivinhaNumero.csprojAssemblyReference.cache
+C:\Users\junior\Documents\ETEC-2020\pendrive.16gb\Técnicas de Programação-Junio\Projetos_C-SHARP\Projetos_C-SHARP\Adivinha Numero\obj\Debug\netcoreapp3.1\AdivinhaNumero.csproj.CoreCompileInputs.cache
+C:\Users\junior\Documents\ETEC-2020\pendrive.16gb\Técnicas de Programação-Junio\Projetos_C-SHARP\Projetos_C-SHARP\Adivinha Numero\obj\Debug\netcoreapp3.1\AdivinhaNumero.AssemblyInfoInputs.cache
+C:\Users\junior\Documents\ETEC-2020\pendrive.16gb\Técnicas de Programação-Junio\Projetos_C-SHARP\Projetos_C-SHARP\Adivinha Numero\obj\Debug\netcoreapp3.1\AdivinhaNumero.AssemblyInfo.cs
